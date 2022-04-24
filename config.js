@@ -16,16 +16,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.botname = 'Zets-MD'
-global.packname = '© Zets-MD'
+global.owner = ['6281313584844']
+global.premium = ['10']
+global.botname = 'Nisa-MD'
+global.packname = '© Nisa-MD'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: ' Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
